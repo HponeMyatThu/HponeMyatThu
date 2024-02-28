@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <tr>
        <td>1.</td>
         <td><img src="https://images.squarespace-cdn.com/content/v1/5c797c3b5239581bca07268a/01abef42-4390-4627-810c-1964af252a76/My+project+%282%29.png" width=50 height=50></td>
-        <td><a target="_blank" href="[https://blazor-wasm-burmese-agriculture.vercel.app/](https://nextjs-blog-iota-gray-55.vercel.app/)">Food Blog [Nextjs, postgreSQL, prisma]</a></td>
+        <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Food Blog [Nextjs, postgreSQL, prisma]</a></td>
     </tr>
 </table>
 
