@@ -22,4 +22,15 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HponeMyatThu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HponeMyatThu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<table align="center">
+    <tr>
+        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+    </tr>
+    <tr>
+       <td>1.</td>
+        <td><img src="[https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png](https://img.freepik.com/free-vector/kawaii-fast-food-cute-fast-food-hotdog-hamburger-fries-drink-ketchup-illustration_24908-              60601.jpg?w=900&t=st=1709089722~exp=1709090322~hmac=8bfb27a7222137ab4457e41d2b69f8aaa46a3af946493b78bd24a0b277118fa2)" width=50 height=50></td>
+        <td><a target="_blank" href="[https://blazor-wasm-burmese-agriculture.vercel.app/](https://nextjs-blog-iota-gray-55.vercel.app/)">Food Blog [Nextjs, postgreSQL, prisma]</a></td>
+    </tr>
+</table>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
