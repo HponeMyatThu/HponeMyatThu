@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     </tr>
     <tr>
        <td>2.</td>
-        <td><img src="https://images.squarespace-cdn.com/content/v1/5c797c3b5239581bca07268a/01abef42-4390-4627-810c-1964af252a76/My+project+%282%29.png" width=50 height=50></td>
-        <td><a target="_blank" href="[https://nextjs-blog-iota-gray-55.vercel.app/](https://stripe-75s8-git-main-hmthu30s-projects.vercel.app/)">Stripe payment</a></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width=50 height=50></td>
+        <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Stripe payment</a></td>
     </tr>
 </table>
 
