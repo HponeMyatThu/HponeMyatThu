@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </tr>
      <tr>
        <td>3.</td>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU](https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa&pid=Api&P=0&h=220" width=50 height=50></td>
+        <td><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU](https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa&pid=Api&P=0&h=220](https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa)" width=50 height=50></td>
         <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">aQme insurance application</a></td>
     </tr>
 </table>
