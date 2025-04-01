@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <tr>
         <td>1.</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">AXR insurance</a></td>
+        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Standing Desk - L4DC - Student project</a></td>
     </tr>
     <tr>
        <td>2.</td>
