@@ -30,41 +30,49 @@
     <tr>
         <th>Project</th>
         <th>Logo</th>
+        <th>Platform</th>
         <th>Link</th>
     </tr>
     <tr>
         <td><b>Standing Desk - L4DC</b><br>🎓 Student Project</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>Food Blog</b><br>🍽️ Built with Next.js, prisma</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>Stripe Payment</b><br>💳 Payment Integration</td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>aQme Insurance </b><br>👨‍🦰 Member Application</td>
         <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>aQme Insurance</b><br>🧑‍🔧 Partner Application</td>
         <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>AXR Insurance</b><br>👱 User Application</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>AXR Insurance</b><br>👨‍🔧 Admin Pannel</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
         <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Visit Project</a></td>
     </tr>
 </table>
