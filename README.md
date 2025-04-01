@@ -40,8 +40,8 @@ Here are some ideas to get you started:
     </tr>
      <tr>
         <td>4.</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width=100 height=50></td>
-        <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">AXR insurance</a></td>
+        <td><img src="https://www.axuranze.com/themes/default/assets/img/logo.png" width=100 height=50></td>
+        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">AXR insurance</a></td>
     </tr>
 </table>
 
