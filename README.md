@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </tr>
      <tr>
         <td>5.</td>
-        <td></td>
+        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743485971957_PNG%20File%201.png" width=50 height=50></td>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">AXR insurance</a></td>
     </tr>
 </table>
