@@ -38,7 +38,7 @@
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>Food Blog</b><br>🍽️ Built with Next.js, PostgreSQL, Prisma</td>
+        <td><b>Food Blog</b><br>🍽️ Built with Next.js, prisma</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
         <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Visit Project</a></td>
     </tr>
@@ -58,12 +58,12 @@
         <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>AXR Insurance</b>👱 User Application</td>
+        <td><b>AXR Insurance</b><br>👱 User Application</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>AXR Insurance</b>👨‍🔧 Admin Pannel</td>
+        <td><b>AXR Insurance</b><br>👨‍🔧 Admin Pannel</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Visit Project</a></td>
     </tr>
