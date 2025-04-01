@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&width=435&lines=Full-Stack+Developer;Security+Enthusiast;Passionate+about+Technology;International+diploma+holder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&width=435&lines=Full-Stack+Developer+with+2+years++;Cybersecurity+Learner+(+Knowing+Cryptography+basic+);Passionate+about+Technology;International+diploma+holder+[+NCC+Level+4+Diploma+In+Computing+]+">
   </a>
 </p>
 
@@ -20,21 +20,6 @@
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,docker,postgres,mysql,mongodb,java,cs,linux,git" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=HponeMyatThu&show_icons=true&theme=radical" />
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=HponeMyatThu&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HponeMyatThu&theme=darkhub&no-bg=true&no-frame=true" />
 </p>
 
 ---
