@@ -9,11 +9,11 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **I’m currently working on:** Full-stack development & security 🔐  
-- 🌱 **I’m learning:** Advanced **Next.js, Docker, and Web Security**  
-- 👯 **I’m looking to collaborate on:** Open-source projects & security tools  
-- 💬 **Ask me about:** **Node.js, Next.js, Cybersecurity, API Security, and Docker**  
-- ⚡ **Fun fact:** I love **coding, ethical hacking, and weightlifting 🏋️**  
+🔭 **I’m currently working on:** Full-stack development & security 🔐  
+🌱 **I’m learning:** Advanced **Next.js, Docker, Web Security, Cryptography**  
+👯 **I’m looking to collaborate on:** Open-source projects & security tools  
+💬 **Ask me about:** **Node.js, Next.js, Cybersecurity, API Security, and Docker**  
+⚡ **Fun fact:** I love **coding, ethical hacking, and weightlifting 🏋️**  
 
 ---
 
@@ -24,12 +24,59 @@
 
 ---
 
+## 📂 Featured Projects
+
+<table align="center">
+    <tr>
+        <th>Project</th>
+        <th>Logo</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td><b>Standing Desk - L4DC</b><br>🎓 Student Project</td>
+        <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
+        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>Food Blog</b><br>🍽️ Built with Next.js, PostgreSQL, Prisma</td>
+        <td><img src="https://images.squarespace-cdn.com/content/v1/5c797c3b5239581bca07268a/01abef42-4390-4627-810c-1964af252a76/My+project+%282%29.png" width="50" height="50"></td>
+        <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>Stripe Payment</b><br>💳 Payment Integration</td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
+        <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>aQme Insurance (Member App)</b></td>
+        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>aQme Insurance (Partner App)</b></td>
+        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>AXR Insurance (User App)</b></td>
+        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>AXR Insurance (Admin App)</b></td>
+        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+        <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Visit Project</a></td>
+    </tr>
+</table>
+
+---
+
 ## 📫 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/hpone-myat-thu-360903262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="hponemy8tthu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -38,48 +85,5 @@
 
 🌟 **Star** my repositories if you find them useful!  
 🚀 Happy Coding!  
-
-
-<table align="center">
-    <tr>
-        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
-    </tr>
-    <tr>
-        <td>1.</td>
-        <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Standing Desk - L4DC - Student project</a></td>
-    </tr>
-    <tr>
-       <td>2.</td>
-        <td><img src="https://images.squarespace-cdn.com/content/v1/5c797c3b5239581bca07268a/01abef42-4390-4627-810c-1964af252a76/My+project+%282%29.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Food Blog [Nextjs, postgreSQL, prisma]</a></td>
-    </tr>
-    <tr>
-       <td>3.</td>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width=50 height=50></td>
-        <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Stripe payment</a></td>
-    </tr>
-    <tr>
-    <tr>
-        <td>4.</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">aQme insurance (Member Web-Application)</a></td>
-    </tr>
-    <tr>
-        <td>5.</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">aQme insurance (Partner Web-Application)</a></td>
-    </tr>   
-    <tr>
-        <td>6.</td>
-        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">AXR insurance (User Web-Application)</a></td>
-    </tr>
-    <tr>
-        <td>6.</td>
-        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">AXR insurance (User Web-Application)</a></td>
-    </tr>
-</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
