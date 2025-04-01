@@ -67,7 +67,13 @@
         <td><b>aQme Insurance</b><br>🧑‍🔧 Member Application</td>
         <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
         <th><b>Andriod</b></th>
-        <td><a target="_blank" href="https://play.google.com/store/search?q=aQme&c=apps">Visit Application</a></td>
+        <td><a target="_blank" href="https://play.google.com/store/search?q=aQme&c=apps">Visit Project</a></td>
+    </tr>
+    <tr>
+        <td><b>aQme Insurance</b><br>🧑‍🔧 Member Application</td>
+        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <th><b>IOS</b></th>
+        <td><a target="_blank" href="https://apps.apple.com/us/app/aqme/id6449254193">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>AXR Insurance</b><br>👱 User Application</td>
