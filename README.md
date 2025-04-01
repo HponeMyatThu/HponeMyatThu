@@ -64,6 +64,12 @@
         <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
     </tr>
     <tr>
+        <td><b>aQme Insurance</b><br>🧑‍🔧 Member Application</td>
+        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <th><img src="https://www.freeiconspng.com/thumbs/android-icon/displaying-18-images-for-android-music-icon-png--27.png" width="50" height="50"></th>
+        <td><a target="_blank" href="https://play.google.com/store/search?q=aQme&c=apps">Visit Application</a></td>
+    </tr>
+    <tr>
         <td><b>AXR Insurance</b><br>👱 User Application</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
         <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
