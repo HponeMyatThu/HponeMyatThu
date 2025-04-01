@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td><b>Food Blog</b><br>🍽️ Built with Next.js, PostgreSQL, Prisma</td>
-        <td><img src="https://images.squarespace-cdn.com/content/v1/5c797c3b5239581bca07268a/01abef42-4390-4627-810c-1964af252a76/My+project+%282%29.png" width="50" height="50"></td>
+        <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
         <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Visit Project</a></td>
     </tr>
     <tr>
@@ -48,22 +48,22 @@
         <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>aQme Insurance (Member App)</b></td>
+        <td><b>aQme Insurance </b><br>👨‍🦰 Member Application</td>
         <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>aQme Insurance (Partner App)</b></td>
+        <td><b>aQme Insurance</b><br>🧑‍🔧 Partner Application</td>
         <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>AXR Insurance (User App)</b></td>
+        <td><b>AXR Insurance</b>👱 User Application</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
-        <td><b>AXR Insurance (Admin App)</b></td>
+        <td><b>AXR Insurance</b>👨‍🔧 Admin Pannel</td>
         <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
         <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Visit Project</a></td>
     </tr>
