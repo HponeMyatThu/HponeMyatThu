@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     </tr>
      <tr>
         <td>4.</td>
-        <td style="background-color: white"><img src="https://www.axuranze.com/themes/default/assets/img/logo.png" width=120 height=50></td>
+        <td><img src="https://camo.githubusercontent.com/4353f3d94ecff523a1940aeb92e641e43f865f558c4cf7166f4a644428d96762/68747470733a2f2f7777772e61787572616e7a652e636f6d2f7468656d65732f64656661756c742f6173736574732f696d672f6c6f676f2e706e67g" width=120 height=50></td>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">AXR insurance</a></td>
     </tr>
 </table>
