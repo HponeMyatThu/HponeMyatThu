@@ -36,7 +36,7 @@
     <tr>
         <td><b>Standing Desk - L4DC</b><br>🎓 Student Project</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
-        <th><img src="https://tse3.mm.bing.net/th?id=OIP.NVAgxTY37kHuIa7RDcCfnAHaGK&pid=Api&P=0&w=300&h=300" width="50" height="50"></th>
+        <th><b>Website</b></th>
         <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
     </tr>
     <tr>
