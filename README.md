@@ -37,7 +37,7 @@
         <td><b>Standing Desk - L4DC</b><br>🎓 Student Project</td>
         <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
         <th><b>Website</b></th>
-        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
+        <td><a target="_blank" href="https://standing-desk-organization-design.onrender.com/">Visit Project</a></td>
     </tr>
     <tr>
         <td><b>Food Blog</b><br>🍽️ Built with Next.js, prisma</td>
