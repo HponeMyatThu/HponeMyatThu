@@ -80,32 +80,19 @@
             <td><b>aQme Insurance (Partner Portal)</b></td>
             <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
             <td>Website</td>
-            <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Login Required</a></td>
+            <td><em>Confidential (unavailable to request)</em></td>
             <td>🧑‍🔧 <strong>Professional Work</strong>: Partner dashboard</td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><b>AXR Insurance (Admin Panel)</b></td>
             <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
             <td>Website</td>
-            <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Login Required</a></td>
+            <td><em>Confidential (unavailable to request)</em></td>
             <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
-        </tr>
-        <tr>
-            <td><b>aQme Insurance</b></td>
-            <td>👨‍💻 Backend/Admin Developer</td>
-            <td>Admin Panel (Web)</td>
-            <td>
-                - Built CRUD interfaces for policy management.<br>
-                - Integrated real-time analytics dashboards.<br>
-                - <i>Tech: Next.js, Node.js, PostgreSQL</i>
-            </td>
         </tr>
     </tbody>
 </table>
 <sub>⚠️ <em>Admin panels are confidential systems. Descriptions reflect my contributions without exposing internal links.</em></sub>
-
-<sub>🔐 <em>Admin panels require credentials. Shown here as part of my professional experience.</em></sub>
-
 ---
 
 ### 🛡️ Admin Panel Development Experience
