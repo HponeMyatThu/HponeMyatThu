@@ -90,11 +90,33 @@
             <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Login Required</a></td>
             <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
         </tr>
+        <tr>
+            <td><b>aQme Insurance</b></td>
+            <td>👨‍💻 Backend/Admin Developer</td>
+            <td>Admin Panel (Web)</td>
+            <td>
+                - Built CRUD interfaces for policy management.<br>
+                - Integrated real-time analytics dashboards.<br>
+                - <i>Tech: Next.js, Node.js, PostgreSQL</i>
+            </td>
+        </tr>
     </tbody>
 </table>
+<sub>⚠️ <em>Admin panels are confidential systems. Descriptions reflect my contributions without exposing internal links.</em></sub>
 
 <sub>🔐 <em>Admin panels require credentials. Shown here as part of my professional experience.</em></sub>
 
+---
+
+### 🛡️ Admin Panel Development Experience
+- **aQme Insurance**  
+  - Developed internal tools for partner/user management.  
+  - *[Confidential system - details available upon request]*  
+
+- **AXR Insurance**  
+  - Led backend architecture for admin dashboard.  
+  - *[Work protected under NDA]*
+  
 ---
 
 ## 📫 Connect with Me:
