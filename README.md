@@ -27,67 +27,73 @@
 ## 📂 Featured Projects
 
 <table align="center">
-    <tr>
-        <th>Project</th>
-        <th>Logo</th>
-        <th>Platform</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td><b>Standing Desk - L4DC</b><br>🎓 Student Project</td>
-        <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://standing-desk-organization-design.onrender.com/">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>Food Blog</b><br>🍽️ Built with Next.js, prisma</td>
-        <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>Stripe Payment</b><br>💳 Payment Integration</td>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>aQme Insurance </b><br>👨‍🦰 Member Application</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>aQme Insurance</b><br>🧑‍🔧 Partner Application</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>aQme Insurance</b><br>🧑‍🔧 Member Application</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
-        <th><b>Andriod</b></th>
-        <td><a target="_blank" href="https://play.google.com/store/search?q=aQme&c=apps">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>aQme Insurance</b><br>🧑‍🔧 Member Application</td>
-        <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
-        <th><b>IOS</b></th>
-        <td><a target="_blank" href="https://apps.apple.com/us/app/aqme/id6449254193">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>AXR Insurance</b><br>👱 User Application</td>
-        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Visit Project</a></td>
-    </tr>
-    <tr>
-        <td><b>AXR Insurance</b><br>👨‍🔧 Admin Pannel</td>
-        <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
-        <th><b>Website</b></th>
-        <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Visit Project</a></td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Project / Role</th>
+            <th>Logo</th>
+            <th>Platform</th>
+            <th>Access</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Standing Desk (L4DC)</b></td>
+            <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://standing-desk-organization-design.onrender.com/">Public</a></td>
+            <td>🎓 Student project (Full-stack)</td>
+        </tr>
+        <tr>
+            <td><b>Food Blog</b></td>
+            <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Public</a></td>
+            <td>🍽️ Next.js + Prisma</td>
+        </tr>
+        <tr>
+            <td><b>Stripe Payment Demo</b></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Public</a></td>
+            <td>💳 Payment integration</td>
+        </tr>
+        <tr>
+            <td><b>aQme Insurance (Member App)</b></td>
+            <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+            <td>Web/Mobile</td>
+            <td>
+                <a target="_blank" href="https://fe.2d.r2cr.member.dev.d3lab.co/">Web</a> |
+                <a target="_blank" href="https://play.google.com/store/search?q=aQme&c=apps">Android</a> |
+                <a target="_blank" href="https://apps.apple.com/us/app/aqme/id6449254193">iOS</a>
+            </td>
+            <td>👨‍🦰 User-facing app (Next.js)</td>
+        </tr>
+        <tr>
+            <td><b>AXR Insurance (User App)</b></td>
+            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Public</a></td>
+            <td>👱 Customer portal</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>aQme Insurance (Partner Portal)</b></td>
+            <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://fe.2d.r2cr.partner.dev.d3lab.co/login">Login Required</a></td>
+            <td>🧑‍🔧 <strong>Professional Work</strong>: Partner dashboard</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>AXR Insurance (Admin Panel)</b></td>
+            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+            <td>Website</td>
+            <td><a target="_blank" href="https://fe.axr.admin.dev.d3lab.co/">Login Required</a></td>
+            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
+        </tr>
+    </tbody>
 </table>
+
+<sub>🔐 <em>Admin panels require credentials. Shown here as part of my professional experience.</em></sub>
 
 ---
 
