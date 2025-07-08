@@ -80,14 +80,14 @@
             <td><b>aQme Insurance (Partner Portal)</b></td>
             <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
             <td>Website</td>
-            <td><em>Confidential (unavailable to request)</em></td>
+            <td><em>Private</em></td>
             <td>🧑‍🔧 <strong>Professional Work</strong>: Partner dashboard</td>
         </tr>
         <tr style="background-color: #f8f9fa;">
             <td><b>AXR Insurance (Admin Panel)</b></td>
             <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
             <td>Website</td>
-            <td><em>Confidential (unavailable to request)</em></td>
+            <td><em>Private</em></td>
             <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
         </tr>
     </tbody>
