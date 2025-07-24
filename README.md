@@ -90,6 +90,13 @@
             <td><em>Private</em></td>
             <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
         </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>EPOS - Ecommerce Point of Sale (Admin Panel)</b></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNU1KLlB3s9XbMxvWpZ9c9FU-agJBbtJfQWbNu0brWKc4yTBPPImmOo_zivSshEdTe9B4&usqp=CAU" width="50" height="50"></td>
+            <td>Website</td>
+            <td><em>Private</em></td>
+            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
+        </tr>
     </tbody>
 </table>
 <sub>⚠️ <em>Admin panels are confidential systems. Descriptions reflect my contributions without exposing internal links.</em></sub>
