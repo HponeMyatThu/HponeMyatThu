@@ -37,26 +37,33 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><b>Standing Desk (L4DC)</b></td>
-            <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>EPOS - Ecommerce Point of Sale (Admin Panel)</b></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNU1KLlB3s9XbMxvWpZ9c9FU-agJBbtJfQWbNu0brWKc4yTBPPImmOo_zivSshEdTe9B4&usqp=CAU" width="50" height="50"></td>
             <td>Website</td>
-            <td><a target="_blank" href="https://standing-desk-organization-design.onrender.com/">Public</a></td>
-            <td>🎓 Student project (Full-stack)</td>
+            <td><em>Private</em></td>
+            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>AXR Insurance (Admin Panel)</b></td>
+            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+            <td>Website</td>
+            <td><em>Private</em></td>
+            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
+        </tr>
+        <tr style="background-color: #f8f9fa;">
+            <td><b>aQme Insurance (Partner Portal)</b></td>
+            <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+            <td>Website</td>
+            <td><em>Private</em></td>
+            <td>🧑‍🔧 <strong>Professional Work</strong>: Partner dashboard</td>
         </tr>
         <tr>
-            <td><b>Food Blog</b></td>
-            <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
+            <td><b>AXR Insurance (User App)</b></td>
+            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
             <td>Website</td>
-            <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Public</a></td>
-            <td>🍽️ Next.js + Prisma</td>
-        </tr>
-        <tr>
-            <td><b>Stripe Payment Demo</b></td>
-            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
-            <td>Website</td>
-            <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Public</a></td>
-            <td>💳 Payment integration</td>
+            <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Public</a></td>
+            <td>👱 Customer portal</td>
         </tr>
         <tr>
             <td><b>aQme Insurance (Member App)</b></td>
@@ -70,33 +77,26 @@
             <td>👨‍🦰 User-facing app (Next.js)</td>
         </tr>
         <tr>
-            <td><b>AXR Insurance (User App)</b></td>
-            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+            <td><b>Stripe Payment Demo</b></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDtT-MID9fNzbw0GYXpfwliT81vfNl3ze0Wj-GRY_PsNbUkYQModqL5nFCWqnHx5ql30&usqp=CAU" width="50" height="50"></td>
             <td>Website</td>
-            <td><a target="_blank" href="https://fe.dev.axr.d3lab.co/guest/home">Public</a></td>
-            <td>👱 Customer portal</td>
+            <td><a target="_blank" href="https://stripe-75s8.vercel.app/">Public</a></td>
+            <td>💳 Payment integration</td>
         </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><b>aQme Insurance (Partner Portal)</b></td>
-            <td><img src="https://tse2.mm.bing.net/th?id=OIP.C8XGDlgeJwTzvHH1mV-q-gHaHa" width="50" height="50"></td>
+        <tr>
+            <td><b>Food Blog</b></td>
+            <td><img src="https://tse4.mm.bing.net/th?id=OIP.hWK_M6viWSopasexu8kYTgHaHa&pid=Api&P=0&h=220" width="50" height="50"></td>
             <td>Website</td>
-            <td><em>Private</em></td>
-            <td>🧑‍🔧 <strong>Professional Work</strong>: Partner dashboard</td>
+            <td><a target="_blank" href="https://nextjs-blog-iota-gray-55.vercel.app/">Public</a></td>
+            <td>🍽️ Next.js + Prisma</td>
         </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><b>AXR Insurance (Admin Panel)</b></td>
-            <td><img src="https://axr-digital-insurance.s3.ap-southeast-1.amazonaws.com/tza-local-temp/1743486090823_Screenshot%202025-04-01%20121107.png" width="50" height="50"></td>
+        <tr>
+            <td><b>Standing Desk (L4DC)</b></td>
+            <td><img src="https://tse4.mm.bing.net/th?id=OIP.0JKKTNguzNFD8chNE4BqAgHaHa&pid=Api&P=0&w=300&h=300" width="50" height="50"></td>
             <td>Website</td>
-            <td><em>Private</em></td>
-            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
-        </tr>
-        <tr style="background-color: #f8f9fa;">
-            <td><b>EPOS - Ecommerce Point of Sale (Admin Panel)</b></td>
-            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNU1KLlB3s9XbMxvWpZ9c9FU-agJBbtJfQWbNu0brWKc4yTBPPImmOo_zivSshEdTe9B4&usqp=CAU" width="50" height="50"></td>
-            <td>Website</td>
-            <td><em>Private</em></td>
-            <td>👨‍🔧 <strong>Professional Work</strong>: Internal admin system</td>
-        </tr>
+            <td><a target="_blank" href="https://standing-desk-organization-design.onrender.com/">Public</a></td>
+            <td>🎓 Student project (Full-stack)</td>
+        </tr>    
     </tbody>
 </table>
 <sub>⚠️ <em>Admin panels are confidential systems. Descriptions reflect my contributions without exposing internal links.</em></sub>
